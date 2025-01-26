@@ -1,6 +1,6 @@
 # Nyxel-MD  
 
-![Nyxel-MD Logo](https://via.placeholder.com/600x200?text=Nyxel-MD)  
+![Nyxel-MD Logo](https://files.catbox.moe/lk6ujc.webp)  
 
 Nyxel-MD is a powerful and multipurpose WhatsApp bot created by **Vesper**. It was developed using **Node.js** and the **Baileys** library to provide a seamless and efficient WhatsApp automation experience. Packed with features for automation, entertainment, productivity, and more, Nyxel-MD is your go-to WhatsApp companion.  
 
