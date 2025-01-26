@@ -46,7 +46,7 @@ Our team at **Nyxel Tech** is committed to providing support during the deployme
 ## Reporting Issues  
 
 If you experience any problems with Nyxel-MD during deployment (excluding modifications):  
-- Contact us at **[support email or link]**.  
+- Contact us at **[nyxeltech@gmail.com]**.  
 - Provide details about the issue and the steps to reproduce it.  
 
 ---
