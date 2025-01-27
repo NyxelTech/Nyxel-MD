@@ -2,7 +2,7 @@
 
 ![Bot Logo](https://files.catbox.moe/lk6ujc.webp)
 
-This is a powerful and multipurpose WhatsApp bot created by **Vesper**. Developed using **Node.js** and the **Baileys** library, it provides a seamless and efficient WhatsApp automation experience. Packed with features for automation, entertainment, productivity, and more, this bot is your go-to WhatsApp companion.
+Nyxel-MD is a powerful and multipurpose WhatsApp bot created by **Vesper**. Developed using **Node.js** and the **Baileys** library, it provides a seamless and efficient WhatsApp automation experience. Packed with features for automation, entertainment, productivity, and more, this bot is your go-to WhatsApp companion.
 
 ## Features
 
@@ -66,7 +66,7 @@ For any issues, questions, or suggestions, reach out to us!
 
 **Join Us:**
 - [![WhatsApp Group](https://img.shields.io/badge/Join_WhatsApp_Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KGvpmV0rmuEIuYboaDL3xD)
-- [![Telegram Channel](https://img.shields.io/badge/Join_Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NyxelTech)
+- [![Telegram Channel](https://img.shields.io/badge/Join_Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nyxel_Tech)
 - [![YouTube Channel](https://img.shields.io/badge/Subscribe_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@nyxeltech?si=pMPcYTQd1CmuKOFx)
 
 ## Credits
