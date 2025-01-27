@@ -1,8 +1,8 @@
-# WhatsApp Bot
+# Nyxel-MD
 
 ![Bot Logo](https://files.catbox.moe/lk6ujc.webp)
 
-This is a powerful and multipurpose WhatsApp bot created by **[Creator Name]**. Developed using **Node.js** and the **Baileys** library, it provides a seamless and efficient WhatsApp automation experience. Packed with features for automation, entertainment, productivity, and more, this bot is your go-to WhatsApp companion.
+This is a powerful and multipurpose WhatsApp bot created by **Vesper**. Developed using **Node.js** and the **Baileys** library, it provides a seamless and efficient WhatsApp automation experience. Packed with features for automation, entertainment, productivity, and more, this bot is your go-to WhatsApp companion.
 
 ## Features
 
@@ -79,11 +79,11 @@ For any issues, questions, or suggestions, reach out to us!
 
 # Simple WhatsApp Bot
 
-This is an open-source WhatsApp bot written and enhanced by **[Creator Name]** to help users automate tasks and have a better WhatsApp experience. Originally developed to improve JavaScript skills, the bot has evolved into a fully functional tool used by many.
+This is an open-source WhatsApp bot written and enhanced by **Vesper** to help users automate tasks and have a better WhatsApp experience. Originally developed to improve JavaScript skills, the bot has evolved into a fully functional tool used by many.
 
 ![npm](https://img.shields.io/npm/dm/whatsapp-utils)
-![Forks](https://img.shields.io/github/forks/[creator]/whatsapp-bot?style=social)
-![Stars](https://img.shields.io/github/stars/[creator]/whatsapp-bot?style=social)
+![Forks](https://img.shields.io/github/forks/NyxelTech/whatsapp-bot?style=social)
+![Stars](https://img.shields.io/github/stars/NyxelTech/whatsapp-bot?style=social)
 
 > **Important**  
 > You are free to modify the source code as per the license, but I am not responsible for any misuse of this software. It was initially created for educational purposes and should not be used for malicious activities.
@@ -103,8 +103,8 @@ This is an open-source WhatsApp bot written and enhanced by **[Creator Name]** t
 
 Want to help? Fork the repo, create a pull request, and ensure everything works.
 
-[![Contribute](https://img.shields.io/badge/CONTRIBUTE-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[creator]/whatsapp-bot/blob/master/.github/contributing.md)  
-[![Join WhatsApp Group](https://img.shields.io/badge/Join_WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GroupLink)
+[![Contribute](https://img.shields.io/badge/CONTRIBUTE-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NyxelTech/whatsapp-bot/blob/master/.github/contributing.md)  
+[![Join WhatsApp Group](https://img.shields.io/badge/Join_WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KGvpmV0rmuEIuYboaDL3xD)
 
 ## Disclaimer
 
